@@ -1,0 +1,6 @@
+{
+  "name": "BGN & SPPG Ticket Analytics Dashboard",
+  "description": "Interactive analytical dashboard for tracking Satuan Pelayanan Program Gizi (SPPG) customer service tickets, featuring real-time charts, detailed data tables, and Gemini AI-powered insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
